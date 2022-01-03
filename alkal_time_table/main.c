@@ -1,3 +1,4 @@
+//any problem with the code write me on bellhelll11@gmail.com
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
