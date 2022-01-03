@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main(void)
+{
+int ff, cc, i=0;
+    printf("__FILE__\n");
+    return 0;
+}

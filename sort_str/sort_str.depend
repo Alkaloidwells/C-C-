@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613334059 source:d:\program\c-p\sort_str\str_sort.c
+	<stdio.h>
+	<string.h>
+
+1613334925 source:d:\program\c-p\sort_str\strgs_sort2.c
+	<stdio.h>
+	<string.h>
+

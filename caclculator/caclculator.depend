@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607716027 source:d:\program\c-p\caclculator\cac1.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,17 @@
+td{
+	padding: 20px;
+	font-family: arial;
+	font-size: 10px;
+}
+#header{
+	background-color: black;
+	color: white;
+}
+#odd{
+	background-color: #99cc99;
+	color: black;
+}
+#even{
+	background-color: #ffff99;
+	color: black;
+}
